@@ -33,4 +33,4 @@ This project helped me understand the importance of:
 - using advanced ensemble methods only after the workflow is stable
 
 ## Notes
-The project is based on Kaggle competition data. Some raw data files may not be included in this repository.
+The project is based on Kaggle competition data.Due to dataset usage constraints, the full training and scoring data are not included.
